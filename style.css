@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,500&display=swap');
+
+* {
+    padding: 3px;
+    font-size: 19px;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+.explore h1,
+.foot,
+.about-main,
+.dev {
+    text-align: center;
+}
+
+.card,
+.card-1,
+.card-2 {
+    margin: 4px 3px;
+}
+
+.content a {
+    float: right;
+}
+
+.alert {
+    margin: 3px 0px;
+}
+
+.icon {
+    width: 26px;
+}
+
+.card-1,
+.card-2 {
+    width: 100%;
+    margin: auto;
+    padding: 12px 40px;
+}
+
+.card-img-1,
+.card-img-2 {
+    width: 223px;
+    margin: auto;
+}
+
+.best-of-luck {
+    float: right;
+}
+
+.web-dev-sec {
+
+    width: 95vw;
+    margin: auto;
+}
+
+.navig-wd {
+    margin-bottom: 33px;
+}
+
+
+strong,footer{
+    color: rgb(28, 148, 44);
+}
